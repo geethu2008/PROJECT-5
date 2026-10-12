@@ -245,11 +245,11 @@ This project successfully demonstrated network reconnaissance and vulnerability 
 
 # 👩‍💻 Author
 
-**Adeeba Nousheen**
+**NEDURUMALLI GEETHESWAR REDDY**
 
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech – COMPUTER SCIENCE AND ENGINEERINGM
 
-Jayaprakash Narayan College of Engineering
+R.M.K ENGINEERING COLLEGE
 
 Cybersecurity Internship Project
 
